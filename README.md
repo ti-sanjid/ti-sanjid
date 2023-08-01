@@ -1,5 +1,5 @@
  
-### Hey! This is Arif Shahriar 👋
+### Hey! This is torikul sanjid 👋
 
 <!--
 **ti-sanjid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
