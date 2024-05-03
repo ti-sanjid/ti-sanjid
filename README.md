@@ -34,9 +34,6 @@ Here are some ideas to get you started:
   Portfolio Website - v2.0<br/>
   <a href="https://ti-sanjid.github.io/" target="_blank">ti-sanjid.github.io</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
 
 <br/>
 
