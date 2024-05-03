@@ -8,10 +8,9 @@
 Here are some ideas to get you started:
 -->
 
-- 📱 I’m currently working on <kbd>Android</kbd> <kbd>JAVA</kbd>
-- 🖥 I’m currently learning <kbd>Flask</kbd> and <kbd>Django</kbd>
-- 👯 I’m looking to collaborate on <kbd>Innovation</kbd>
-- 🤔 I’m looking for help with <kbd>JS</kbd>
+- 📱 I’m currently working on <kbd>Python</kbd> 
+- 🖥 I’m currently learning <kbd>Climate modelling</kbd> and <kbd>Machine Learning</kbd>
+- 👯 I’m looking to collaborate on <kbd>research in Climate Physics</kbd>
 - 💬 Ask me about <kbd>Anything</kbd>
 - 📫 How to reach me:  target="_blank" rel="noopener noreferrer">Facebook</a>
 
