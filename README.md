@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 🖥 I’m currently learning <kbd>Climate modelling</kbd> and <kbd>Machine Learning</kbd>
 - 👯 I’m looking to collaborate on <kbd>research in Climate Physics</kbd>
 - 💬 Ask me about <kbd>Anything</kbd>
-- 📫 How to reach me:  target="_blank" rel="noopener noreferrer">Facebook</a>
-
 - ⚡ Fun fact: you are visiting my profile
 
 <hr>
